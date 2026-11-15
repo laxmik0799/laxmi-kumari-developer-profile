@@ -185,14 +185,14 @@ Automates mapping, validation, discrepancy identification and Transformational D
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=laxmik0799&show_icons=true&hide_border=true&bg_color=05060f&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1&ring_color=8b5cf6&count_private=true" alt="GitHub stats for laxmik0799" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laxmik0799&layout=compact&hide_border=true&bg_color=05060f&title_color=a78bfa&text_color=cbd5e1&langs_count=6" alt="Most used languages" height="170" />
+<img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details and contribution graph" width="100%" />
+
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" width="49%" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages" width="49%" />
 
 <img src="https://streak-stats.demolab.com?user=laxmik0799&hide_border=true&background=05060f&ring=8b5cf6&fire=22d3ee&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b&stroke=1e293b" alt="Contribution streak" width="80%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=laxmik0799&bg_color=05060f&color=a78bfa&line=8b5cf6&point=22d3ee&area=true&area_color=4f7cff&hide_border=true" alt="Contribution graph" width="100%" />
-
-<sub>Live cards from community-run services. They update automatically and may take a moment to load.</sub>
+<sub>Stats cards are regenerated daily by a GitHub Action in this repository.</sub>
 
 </div>
 
