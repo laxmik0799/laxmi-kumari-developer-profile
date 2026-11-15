@@ -4,7 +4,6 @@
 
 <br />
 
-<a href="https://laxmik0799-laxmi-kumari-developer-profile-app-uuwfbp.streamlit.app"><img src="https://img.shields.io/badge/Live%20profile-Streamlit-0b1024?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Live profile on Streamlit" /></a>
 <a href="https://github.com/laxmik0799"><img src="https://img.shields.io/badge/GitHub-laxmik0799-0b1024?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0b1024?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0b1024?style=for-the-badge&logo=gmail&logoColor=a78bfa" alt="Email" /></a>
